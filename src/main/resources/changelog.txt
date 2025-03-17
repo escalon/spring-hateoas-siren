@@ -4,3 +4,8 @@ Spring HATEOAS Siren Changelog
 Changes in version 1.0.0 (2020-X-Y)
 ---------------------------------------------
 - Initial release with basic support
+
+Changes in version 3.0.0 (2025-X-Y)
+---------------------------------------------
+- Updated asciidoc reference generation
+- Upgraded to spring-hateos 3.0.0
